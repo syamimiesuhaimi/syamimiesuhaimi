@@ -7,7 +7,7 @@
 🚀 Always striving to create efficient, clean, and scalable solutions.  
 
 
-# Hello, I'm [syamimiesuhaimi] 👋
+# Hello, I'm syamimiesuhaimi 👋
 
 Welcome to my GitHub profile! I'm a passionate web developer always eager to learn new things and build amazing projects. Below you'll find some stats about my GitHub activity.
 
