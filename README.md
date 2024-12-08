@@ -1,4 +1,11 @@
-## Hi there 👋
+## 🌐 Web Developer  
+
+### 🛠️ Project Involvement  
+- Technical Lead for **University Projects**  
+- Successfully **Maintained Legacy Codebases** to ensure stability and functionality.  
+
+🚀 Always striving to create efficient, clean, and scalable solutions.  
+
 
 <!--
 **syamimiesuhaimi/syamimiesuhaimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
